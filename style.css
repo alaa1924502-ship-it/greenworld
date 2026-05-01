@@ -1,0 +1,31 @@
+.dashboard h2{
+    margin-bottom:30px;
+}
+
+.stat{
+    background:#1e293b;
+    padding:20px;
+    border-radius:15px;
+    text-align:center;
+    transition:0.3s;
+}
+.stat:hover{
+    transform:scale(1.05);
+}
+
+.stat h3{
+    color:#94a3b8;
+}
+
+.stat p{
+    font-size:24px;
+    margin-top:10px;
+    color:#22c55e;
+}
+
+canvas{
+    margin-top:40px;
+    background:#1e293b;
+    padding:20px;
+    border-radius:15px;
+}
